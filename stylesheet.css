@@ -1,0 +1,32 @@
+body {
+    font-family: "Gill Sans", sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+.header {
+    background-color: red;
+    color: white;
+    height: 125px;
+
+}
+
+.header-logo {
+    float: left;
+    font-size: 40px;
+    padding: 20px 40px;
+    font-weight: bolder;
+}
+
+.header-list li{
+    float: left;
+    padding: 50px 20px;
+    
+}
+
+.basket {
+    margin-right: 80px;
+    
+}
